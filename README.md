@@ -271,10 +271,15 @@ Talent-Acquisition-Analytics-Dashboard/
 This project demonstrates how recruitment data can be transformed into a structured hiring-performance dashboard. It enables users to monitor recruitment KPIs, examine candidate drop-offs, understand rejection patterns, compare recruitment strategies, and evaluate candidate-performance indicators.
 The dashboard supports more informed and data-driven recruitment decisions while highlighting areas where the hiring process may require further investigation.
 
+
 📄 License
+
 This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
 
+
+
 👤 Author
+
 [MahindraboopathiS]
 
 📧 [mahindraboopathis@gmail.com]
